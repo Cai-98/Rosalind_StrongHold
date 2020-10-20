@@ -1,9 +1,0 @@
-{
-    "name":"Sci-Hub",
-    "method":"GET",
-    "url":"https://sci-hub.ren/{doi}",
-    "mode":"html"
-    "selector":"#pdf",
-    "attribute":"src",
-    "automatic":true
-}
